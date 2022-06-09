@@ -1,3 +1,5 @@
-main.svelte-6wjt63{text-align:center;padding:1em;max-width:240px;margin:0 auto}h1.svelte-6wjt63{color:#ff3e00;text-transform:uppercase;font-size:4em;font-weight:100}@media(min-width: 640px){main.svelte-6wjt63{max-width:none}}
+body{color:white;background-color:black}main.svelte-gntt42{text-align:center;margin:0 auto;overflow:hidden;user-select:none}
+@font-face{font-family:Roboto-Mono;src:url("../fonts/RobotoMono-VariableFont_wght.ttf")}h1.svelte-1l0qwaf{margin:10px auto;font-family:"Roboto-Mono", monospace}
+.inputHolder.svelte-11jdp24{display:flex;flex-direction:row;justify-content:space-between;align-items:center;padding-left:6em;padding-right:6em}.number.svelte-11jdp24{font-size:2em;font-family:"Roboto Mono", monospace;font-weight:bold;color:white;background-color:black;border:none;outline:none;width:2em;text-align:center;cursor:pointer}
 
 /*# sourceMappingURL=bundle.css.map */

@@ -1,6 +1,6 @@
 {
-  "name": "svelte-electron-forge",
-  "productName": "svelte-electron-forge",
+  "name": "TcHotKey",
+  "productName": "TcHotKey",
   "version": "1.0.0",
   "description": "Svelte + Electron Forge",
   "main": "src/index.js",
@@ -15,7 +15,7 @@
     "svelte-start": "sirv public"
   },
   "keywords": [],
-  "author": "jeffd23",
+  "author": "Atle Selbek",
   "license": "MIT",
   "config": {
     "forge": {
@@ -45,6 +45,7 @@
     }
   },
   "dependencies": {
+    "dayjs": "^1.11.2",
     "electron-reload": "^1.5.0",
     "electron-squirrel-startup": "^1.0.0",
     "sirv-cli": "^0.4.4"
@@ -58,7 +59,7 @@
     "@rollup/plugin-commonjs": "^11.0.0",
     "@rollup/plugin-node-resolve": "^7.0.0",
     "concurrently": "^5.1.0",
-    "electron": "8.0.2",
+    "electron": "^19.0.3",
     "rollup": "^1.32.0",
     "rollup-plugin-livereload": "^1.0.0",
     "rollup-plugin-svelte": "^5.0.3",
