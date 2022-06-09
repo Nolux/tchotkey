@@ -2,12 +2,17 @@
 
 Simple app to paste current system-time timecode to clipboard.
 
+## Download
+
+Get the latest binary from github releases.
+
 ## Usage
 
-### Mac Os
+Click the timecode to set offset to system time. This will be saved to local settings and persist application restart.
 
-Command + g to paste tc to clipboard
+### Hotkeys
 
-### Windows
-
-Control + g to paste tc to clipboard
+| Command     | Description                  |
+| ----------- | ---------------------------- |
+| Command + G | Mac Os copy tc to clipboard  |
+| Control + G | Windows copy tc to clipboard |
